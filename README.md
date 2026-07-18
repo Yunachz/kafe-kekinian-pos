@@ -13,13 +13,13 @@ A desktop Point-of-Sale (POS) application for a café, built with **Python & Tki
 <td width="50%">
 
 **Main POS screen — menu catalog & shopping cart**
-<img src="docs/main-menu-cart.png" alt="Main menu and shopping cart">
+<img src="docs/add-menu-form.png" alt="Add new menu form">
 
 </td>
 <td width="50%">
 
 **Add New Menu form (admin panel)**
-<img src="docs/add-menu-form.png" alt="Add new menu form">
+<img src="docs/main-menu-cart.png" alt="Main menu and shopping cart">
 
 </td>
 </tr>
