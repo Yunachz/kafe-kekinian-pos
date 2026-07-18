@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Es Kopi Susu Gula Aren",
+        "price": 22000,
+        "category": "Minuman",
+        "desc": "Kopi susu signature kami yang memadukan espresso kaya rasa dengan susu segar dan manisnya gula aren asli dari Jawa Barat.\n\nKomposisi:\n- House Blend Espresso (70% Arabika Gayo, 30% Robusta)\n- Susu Segar Diamond\n- Gula Aren Organik",
+        "image": "kopi_susu.png",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "name": "Matcha Latte",
+        "price": 28000,
+        "category": "Minuman",
+        "desc": "Berasal dari tradisi upacara minum teh di Jepang, matcha diadopsi oleh kafe global sebagai alternatif kopi yang menenangkan.\n\nAsal: Uji, Kyoto, Jepang.\nBahan Utama:\n- Bubuk Matcha Uji Premium\n- Susu Segar Steam",
+        "image": "matcha_latte.png",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "name": "Strawberry Yogurt",
+        "price": 25000,
+        "category": "Minuman",
+        "desc": "Terinspirasi dari gerakan makanan sehat di California, smoothie ini adalah cara lezat untuk menikmati kebaikan alam.\n\nKomposisi:\n- Buah Stroberi Segar dari perkebunan Lembang\n- Yogurt Plain Creamy\n- Madu Murni",
+        "image": "strawberry_yogurt.png",
+        "stock": 15
+    },
+    {
+        "id": 4,
+        "name": "Lychee Tea",
+        "price": 20000,
+        "category": "Minuman",
+        "desc": "Inovasi dari budaya teh modern di Asia Timur. Diciptakan untuk memberikan pilihan yang sangat menyegarkan di cuaca panas.\n\nIsi:\n- Seduhan Teh Hitam Premium\n- Sirup Leci Manis\n- Buah Leci Utuh",
+        "image": "lychee_tea.png",
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "name": "Red Velvet Latte",
+        "price": 28000,
+        "category": "Minuman",
+        "desc": "Terinspirasi dari Red Velvet Cake ikonik dari Amerika. Minuman ini adalah 'kue dalam cangkir' (non-kopi).\n\nCatatan Rasa: Cokelat ringan, vanilla, dan sentuhan gurih cream cheese.",
+        "image": "red_velvet.png",
+        "stock": 15
+    },
+    {
+        "id": 6,
+        "name": "Cromboloni Cokelat",
+        "price": 30000,
+        "category": "Makanan",
+        "desc": "Sensasi viral dari New York. Perkawinan sempurna antara croissant Prancis dan bomboloni Italia.\n\nKomposisi Utama:\n- Adonan Pastry Mentega\n- Isian Cokelat Belgia Callebaut",
+        "image": "cromboloni.png",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "name": "Korean Garlic Cheese Bread",
+        "price": 35000,
+        "category": "Makanan",
+        "desc": "Berawal dari sebuah toko roti di Gangneung, Korea Selatan, jajanan ini menjadi fenomena street food global.\n\nKomposisi:\n- Roti bun lembut\n- Saus mentega bawang putih melimpah\n- Isian Keju Krim",
+        "image": "korean_garlic.png",
+        "stock": 12
+    },
+    {
+        "id": 8,
+        "name": "Spaghetti Brulee",
+        "price": 45000,
+        "category": "Makanan",
+        "desc": "Kreasi modern yang terinspirasi dari Cr\u00e8me br\u00fbl\u00e9e. Konsep 'membakar' lapisan atas diterapkan pada pasta.\n\nKomposisi: Spaghetti Bolognese, Saus Bechamel Creamy, Keju Mozzarella.",
+        "image": "spaghetti_brulee.png",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "name": "Butter Croissant",
+        "price": 20000,
+        "category": "Makanan",
+        "desc": "Mahakarya pastry dari Wina, Austria, yang disempurnakan di Prancis. Kuncinya pada teknik laminasi adonan dan mentega.\n\nCatatan: Sempurna dinikmati langsung atau sebagai pendamping kopi.",
+        "image": "croissant.png",
+        "stock": 25
+    },
+    {
+        "id": 10,
+        "name": "Chicken Mentai Rice",
+        "price": 40000,
+        "category": "Makanan",
+        "desc": "Popularitas saus mentai di Jepang diadaptasi menjadi menu 'rice bowl' yang praktis dan mengenyangkan.\n\nSaus Mentai: Mayones Jepang, Tobiko (Telur Ikan Terbang), Bumbu Rahasia.",
+        "image": "mentai_rice.png",
+        "stock": 15
+    },
+    {
+        "id": 11,
+        "name": "Biscoff Caramel Latte",
+        "price": 32000,
+        "category": "Minuman",
+        "desc": "Lahir dari tren global biskuit Lotus Biscoff asal Belgia.\n\nCatatan Rasa: Kopi lembut, karamel, kayu manis, dan jahe.",
+        "image": "biscoff_latte.png",
+        "stock": 15
+    },
+    {
+        "id": 12,
+        "name": "Ocean Blue Mojito",
+        "price": 27000,
+        "category": "Minuman",
+        "desc": "Adaptasi non-alkohol dari cocktail Mojito klasik asal Kuba. Warna birunya terinspirasi dari keindahan laut Karibia.\n\nKomposisi:\n- Sirup Blue Curacao, Daun Mint, Jeruk Nipis, Air Soda",
+        "image": "ocean_mojito.png",
+        "stock": 20
+    },
+    {
+        "id": 13,
+        "name": "Truffle Carbonara",
+        "price": 55000,
+        "category": "Makanan",
+        "desc": "Sentuhan kemewahan pada hidangan carbonara klasik dari Roma, Italia. Penambahan minyak truffle mengangkat hidangan ini menjadi istimewa.\n\nKomposisi Saus: Kuning Telur, Keju Pecorino, Lada Hitam, Minyak Truffle.",
+        "image": "truffle_carbonara.png",
+        "stock": 8
+    },
+    {
+        "id": 14,
+        "name": "Dessert Box 'Oreo Puff'",
+        "price": 38000,
+        "category": "Makanan",
+        "desc": "Tren dessert modern yang lahir dari kebutuhan akan kue yang praktis dan 'Instagrammable'.\n\nLapisan: Bolu cokelat, mousse cream cheese, taburan Oreo.",
+        "image": "dessert_box.png",
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "name": "Almond Croissant",
+        "price": 28000,
+        "category": "Makanan",
+        "desc": "Secara tradisional, ini adalah cara pembuat roti di Prancis untuk 'menjual kembali' croissant kemarin. Croissant dibelah, diisi pasta almond, dan dipanggang kembali.\n\nKomposisi: Croissant, Isian Frangipane (pasta almond), Taburan Almond.",
+        "image": "almond_croissant.png",
+        "stock": 18
+    }
+]

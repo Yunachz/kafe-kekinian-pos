@@ -1,0 +1,17 @@
+# File konfigurasi personal (berisi path folder gambar di komputer masing-masing)
+# Akan dibuat otomatis oleh aplikasi saat pertama kali dijalankan
+config.json
+
+# Data transaksi & pelanggan bersifat lokal, sebaiknya tidak diunggah ke repo publik
+history.json
+customers.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
