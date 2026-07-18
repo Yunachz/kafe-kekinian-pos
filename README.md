@@ -27,13 +27,13 @@ A desktop Point-of-Sale (POS) application for a café, built with **Python & Tki
 <td width="50%">
 
 **Payment method selection**
-<img src="docs/payment-method-selection.png" alt="Payment method selection dialog">
+<img src="docs/non-cash-payment.png" alt="Non-cash payment confirmation dialog">
 
 </td>
 <td width="50%">
 
 **Non-cash payment confirmation**
-<img src="docs/non-cash-payment.png" alt="Non-cash payment confirmation dialog">
+<img src="docs/payment-method-selection.png" alt="Payment method selection dialog">
 
 </td>
 </tr>
@@ -117,19 +117,12 @@ Some features (add menu, edit menu, delete menu) require an admin password.
 
 ---
 
-## 🗺️ Roadmap / Ideas
+## 📄 License
 
-- [ ] Print receipts to a thermal printer
-- [ ] Export sales reports to Excel/PDF
-- [ ] Encrypt the admin password (currently stored as plain text)
-- [ ] Multi-cashier mode with per-user login
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+## 🙋 Contributors
 
-Pull requests and suggestions are very welcome! Feel free to open an issue if you find a bug or have an idea for a new feature.
-
-## 📄 License
-
-Free to use and modify for learning purposes or further development.
+- Yunachz — [GitHub](https://github.com/Yunachz) purposes or further development.
